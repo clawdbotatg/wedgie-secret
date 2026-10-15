@@ -3,7 +3,7 @@
     {
       "mod": "secret",
       "name": "Secrets",
-      "about": "Messages only your wedgie can read. Share your key, get a sealed message over any chat, paste it at wedgie.dev/secret: it opens on the wedgie's screen, never the computer's.",
+      "about": "Messages only your wedgie can read. Paste one at wedgie.dev/secret: it opens on the wedgie's screen, never the computer's.",
       "files": [
         "secret.py",
         "secret_box.py"
