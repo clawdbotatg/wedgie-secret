@@ -7,8 +7,8 @@ A [wedgie](https://wedgie.dev) app: chat where only your wedgie can read what yo
 2. **Share it:** at https://wedgie.dev/secret, Copy my link. Anyone with the link can write to you.
 3. **Chat:** open their link and add them. You type at wedgie.dev/secret; it's sealed in your browser
    to their key and goes through a mailbox there that holds only sealed text (gone after 7 days).
-4. **Read:** their messages show only on your wedgie's screen. One green press opens a chat with them;
-   their next messages show with no press. Up/down pages, red closes.
+4. **Read:** their messages show only on your wedgie's screen. Every message asks for a green press first;
+   the wedgie never shows who it says it is from (only the computer says that). Up/down pages, red closes.
 
 No wedgie? Open someone's link and write to them once. They can't reply.
 
